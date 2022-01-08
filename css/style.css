@@ -51,6 +51,7 @@ figure section {
   top: 150%;
   margin-left: -10vw;
   margin-top: -32vh;
+  transition: 1s;
 }
 figure section article {
   width: 100%;
